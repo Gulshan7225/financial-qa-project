@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfplumber
+Pillow
+scikit-learn
+pandas
+matplotlib
+numpy
+python-dotenv
+pydantic
+anthropic
+reportlab
+pytest
+httpx
