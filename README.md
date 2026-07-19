@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Financial Report QA — Mini Project
 
 A FastAPI backend that extracts structured data (text, tables, and charts)
@@ -267,3 +268,6 @@ formats, and filename/upload security validation.
 - **Storage is in-process** (a Python dict); restarting the server loses
   uploaded reports. Swap `document_store.py` for Redis/Postgres for
   persistence across restarts/instances.
+=======
+# financial-qa-project
+>>>>>>> d5f8141b18abf1b8c80ffc2ae2476aaace109925
